@@ -1,0 +1,2 @@
+learning_tf2:robot_setup_tf
+-DCATKIN_DEVEL_PREFIX=/home/francis/tutorial_ws/devel -DCMAKE_INSTALL_PREFIX=/home/francis/tutorial_ws/install -G Unix Makefiles
